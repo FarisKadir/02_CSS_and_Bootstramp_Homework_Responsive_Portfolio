@@ -12,20 +12,50 @@
     <title>Responsive Portfolio</title>
 </head>
 <body>
-    <!-- This is my main container that houses everything for this responsive page.-->
+    <!-- This is my main container that houses everything for this responsive page. It sets up the rows and columns that I want to use.-->
     <div class="container">
+        <!-- Row 1 Start -->
         <div class="row">
           <div class="col">
-              
+              <!-- NavBar Start -->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark" role="navigation">
+                <div class="container-fluid">
+                  <a class="navbar-brand" href="#">Faris Kadir's Portfolio</a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                      <a class="nav-link active" aria-current="page" href="#">Contact</a>
+                      <a class="nav-link" href="#">Portfolio</a>
+                      <a class="nav-link" href="#">About</a>
+                    </div>
+                  </div>
+                </div>
+              </nav>
+              <!-- NavBar End -->
           </div>
         </div>
-        <div class="row">
-          <div class="col-8">col-8</div>
-          <div class="col-4">col-4</div>
+        <!-- Row 1 End -->
+        <!-- Row 2 Starts -->
+        <div class="row container-fluid">
+            <div class="col bg-warning text-white ">
+                <article>
+                    <p>blah blah blah</p>
+                </article>
+            </div>
+            <div class="col bg-danger text-white ">
+                <article>
+                    <p>blah blah blah</p>
+                </article>
+            </div>
         </div>
-        <div class="row">
-            <div class="col-8">col-8</div>
-          </div>
+        <!-- Row 2 Ends -->
+        <!-- Row 3 Starts -->
+        <div class="row container-fluid">
+            <div class="col bg-secondary text-white">col-8</div>
+        </div>
+        <!-- Row 3 Ends -->
       </div>
     </div>
     
