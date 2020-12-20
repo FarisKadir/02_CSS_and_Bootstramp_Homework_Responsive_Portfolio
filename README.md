@@ -44,9 +44,9 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * All links must work. - done
 
-* Must use semantic html.
+* Must use semantic html. - done
 
-* Each page must have valid and correct HTML. (use a validation service)
+* Each page must have valid and correct HTML. (use a validation service) - done
 
 * Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
