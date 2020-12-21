@@ -48,7 +48,7 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * Each page must have valid and correct HTML. (use a validation service) - done
 
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
+* Must contain your personalized information. (bio, name, images, links to social media, etc.) - done
 
 * Must properly utilize Bootstrap components and grid system.
 
